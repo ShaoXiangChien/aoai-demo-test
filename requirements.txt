@@ -2,6 +2,7 @@ azure-cognitiveservices-speech
 streamlit
 streamlit-authenticator
 streamlit-chat
+streamlit-elements
 openai
 pandas
 numpy
