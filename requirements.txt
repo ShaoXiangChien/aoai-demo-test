@@ -1,0 +1,11 @@
+azure-cognitiveservices-speech
+streamlit
+streamlit-authenticator
+streamlit-chat
+openai
+pandas
+numpy
+matplotlib
+plotly
+scipy
+scikit-learn
